@@ -1,0 +1,22 @@
+{
+  "video": {
+    "-97129549_456241199": {
+      "length": 60,
+      "arrayIndex": 0
+    },
+    "-101610168_456244763": {
+      "length": 26,
+      "arrayIndex": 0
+    },
+    "-217144019_456239850": {
+      "length": 30,
+      "arrayIndex": 0
+    }
+  },
+  "timeSound": {
+    "26": ["https://dl.dropbox.com/scl/fi/uum05yx79j4ryclgabxyz/26_min_input_beat.wav?rlkey=x7xspwoss0hav1pfaipbghowh"],
+    "30": ["https://dl.dropbox.com/scl/fi/u64hsxjdknicseds98urr/30_min_bi_0.3ori_0.7bi.mp3?rlkey=wwbv20yy9o8snrf9ksr15mwyb"],
+    "60": ["https://dl.dropbox.com/scl/fi/is9b6bpf0eeww0pjagwyu/60_min_initial_beat.wav?rlkey=b481msobhdu2514f8zexiuu2t"]
+  },
+  "defaultSound": "https://dl.dropbox.com/scl/fi/is9b6bpf0eeww0pjagwyu/60_min_initial_beat.wav?rlkey=b481msobhdu2514f8zexiuu2t"
+}
