@@ -11,12 +11,17 @@
     "-217144019_456239850": {
       "length": 30,
       "arrayIndex": 0
+    },
+    "MTIwMDI2LXlvdV9saWtlX3RoZV9ibGFja19vbmVfZGVhcg==": {
+      "length": 110,
+      "arrayIndex": 1
     }
   },
   "timeSound": {
     "26": ["https://dl.dropbox.com/scl/fi/uum05yx79j4ryclgabxyz/26_min_input_beat.wav?rlkey=x7xspwoss0hav1pfaipbghowh"],
     "30": ["https://dl.dropbox.com/scl/fi/u64hsxjdknicseds98urr/30_min_bi_0.3ori_0.7bi.mp3?rlkey=wwbv20yy9o8snrf9ksr15mwyb"],
-    "60": ["https://dl.dropbox.com/scl/fi/is9b6bpf0eeww0pjagwyu/60_min_initial_beat.wav?rlkey=b481msobhdu2514f8zexiuu2t"]
+    "60": ["https://dl.dropbox.com/scl/fi/is9b6bpf0eeww0pjagwyu/60_min_initial_beat.wav?rlkey=b481msobhdu2514f8zexiuu2t"],
+    "110": ["https://dl.dropbox.com/scl/fi/3zouzfjyd87ptrtuxknyz/hfo-1-30.mp3?rlkey=9ww9rzi33ao0ierqp1c6zbvnz", "https://dl.dropbox.com/scl/fi/3zouzfjyd87ptrtuxknyz/hfo-1-30.mp3?rlkey=9ww9rzi33ao0ierqp1c6zbvnz"]
   },
   "defaultSound": "https://dl.dropbox.com/scl/fi/is9b6bpf0eeww0pjagwyu/60_min_initial_beat.wav?rlkey=b481msobhdu2514f8zexiuu2t"
 }
